@@ -1,25 +1,25 @@
-# Abschlussprojekt_WebSecBot
+# Abschlussprojekt_WebSecBot 🤖
 # WebSecBot
 
 WebSecBot ist ein Bot zur Umgehung von Website-Einschränkungen und zur Automatisierung von Webformularen.
 
-## Motivation
+## Motivation 💪
 
 Dieses Projekt wurde entwickelt, um die Sicherheit von Webapplikationen zu verstehen und zu testen. Es ermöglicht das Erlernen der Sicherheitsmechanismen im Web und wie man diese verstärken kann.
 
-## Funktionen
+## Funktionen 🎯
 
 - Umgehung von Website-Einschränkungen wie Warteschleifen bei Loadingpages
 - Eingabe von vorinstallierten Daten in Webformulare
 - Automatische Lösung von Captchas
 
-## Installation
+## Installation ⚙️
 
 1. Lade das Repository als ZIP-Datei herunter und entpacke es auf deinem lokalen Computer
 2. Navigieren Sie zum Repository-Verzeichnis: `cd WebSecBot`
 3. Nun kannst du die gewünschte Datei öffnen und so den Sourcecode sehen
 
-## Verwendung
+## Verwendung 🚀
 
 1. Um den Bot verwenden zu können, muss man sich in Visual Studio Code folgende Pakete mit `npm install <Paketname>` installieren:
    - puppeteer
