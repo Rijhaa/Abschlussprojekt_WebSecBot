@@ -1,5 +1,5 @@
 # Abschlussprojekt_WebSecBot 🤖
-# WebSecBot
+## WebSecBot
 
 WebSecBot ist ein Bot zur Umgehung von Website-Einschränkungen und zur Automatisierung von Webformularen. Der Name des Projekts ist WebSecBot und ist zusammengestellt aus den Worten Web, Security und Bot.
 
