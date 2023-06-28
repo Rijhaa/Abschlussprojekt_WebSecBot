@@ -15,21 +15,22 @@ Dieses Projekt wurde entwickelt, um die Sicherheit von Webapplikationen zu verst
 
 ## Installation
 
-1. Stellen Sie sicher, dass [Python](https://www.python.org/) auf Ihrem System installiert ist.
-2. Klonen Sie dieses Repository: `git clone https://github.com/your-username/WebSecBot.git`
-3. Navigieren Sie zum Repository-Verzeichnis: `cd WebSecBot`
-4. Installieren Sie die Abhängigkeiten: `pip install -r requirements.txt`
+1. Lade das Repository als ZIP-Datei herunter und entpacke es auf deinem lokalen Computer
+2. Navigieren Sie zum Repository-Verzeichnis: `cd WebSecBot`
+3. Nun kannst du die gewünschte Datei öffnen und so den Sourcecode sehen
 
 ## Verwendung
 
-1. Öffnen Sie die `config.py`-Datei und konfigurieren Sie die erforderlichen Einstellungen.
-2. Führen Sie den Bot aus: `python bot.py`
+1. Um den Bot verwenden zu können, muss man sich in Visual Studio Code folgende Pakete mit `npm install <Paketname>` installieren:
+   - puppeteer
+   - puppeteer-extra
+   - puppeteer-extra-plugin-stealth
+   - request-promise-native
+   - promise-poller
 
-## Beitrag
+2. Im Script müssen folgende Konfigurationswerte angepasst werden:
+   - apiKey: Der API-Schlüssel für den Captcha-Lösungsdienst (z.B., 'adbc7d647ca8f20eebd39808f859aa81')
+   - config.sitekey: Der Site-Schlüssel des Captcha (z.B., '6LdTUqEmAAAAAAe1-sUMJBC7a93qQfYPmlM7v-bs')
+   - config.pageurl: Die URL der Zielseite (z.B., 'https://www.offspring.co.uk/view/product/offspring_catalog/2,20/x8qVNsFtXd')
 
-Wenn Sie zum Projekt beitragen möchten, erstellen Sie bitte einen Fork des Repositories und senden Sie Pull Requests mit Ihren Änderungen.
-
-## Lizenz
-
-Dieses Projekt ist unter der [MIT-Lizenz](https://opensource.org/licenses/MIT) lizenziert.
 
