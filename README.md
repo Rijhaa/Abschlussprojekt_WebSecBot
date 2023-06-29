@@ -5,7 +5,7 @@ WebSecBot ist ein Bot zur Umgehung von Website-Einschränkungen und zur Automati
 
 ## Motivation 💪
 
-Dieses Projekt wurde entwickelt, um die Sicherheit von Webapplikationen zu verstehen und zu testen. Es ermöglicht das Erlernen der Sicherheitsmechanismen im Web und wie man diese verstärken kann.
+Dieses Projekt wurde entwickelt, um die Sicherheit von Webapplikationen zu verstehen und zu testen. Es ermöglicht das Erlernen der Sicherheitsmechanismen im Web.
 
 ## Funktionen 🎯
 
