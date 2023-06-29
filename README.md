@@ -9,7 +9,6 @@ Dieses Projekt wurde entwickelt, um die Sicherheit von Webapplikationen zu verst
 
 ## Funktionen 🎯
 
-- Umgehung von Website-Einschränkungen wie Warteschleifen bei Loadingpages
 - Eingabe von vorinstallierten Daten in Webformulare
 - Automatische Lösung von Captchas
 
